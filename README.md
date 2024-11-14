@@ -214,3 +214,80 @@
 
 ![image](https://github.com/user-attachments/assets/e018d096-b972-48a1-94ec-911d547fd60f)
 ![image](https://github.com/user-attachments/assets/c0e210fa-9802-4621-9835-a38ac6781f8a)
+
+10-
+
+<!DOCTYPE html>
+
+<html>
+
+  <body>
+
+    <h1 style="color:blue;">¡Bienvenidos a Farmacias Similares!</h1>
+    
+    <p style="color:red;">Medicamentos de calidad y asesoría del Doctor Simi.</p>
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/46c24af6-7d6a-43d0-a43f-446ec24ab03f)
+![image](https://github.com/user-attachments/assets/cf1dc93d-4f7a-40ee-a38d-5f7d0a9c35e5)
+
+11-
+
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+  
+    <style>
+   
+        body { background-color: powderblue; }
+   
+        h1   { color: navy; }
+     
+        p    { color: darkred; }
+ 
+    </style>
+
+</head>
+
+<body>
+
+    <h1>Doctor Simi: tu aliado en la salud</h1>
+ 
+    <p>En Farmacias Similares, encontrarás el mejor cuidado para ti y tu familia.</p>
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/69e983fb-b77d-4e57-9ac1-f3040669890b)
+![image](https://github.com/user-attachments/assets/3e7bc3f3-3eee-4966-9f53-eb81483b9be5)
+
+12-
+
+<!DOCTYPE html>
+
+<html>
+
+  <head>
+   
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+    <h1>Visítanos en Farmacias Similares</h1>
+  
+    <p>Encuentra productos de calidad con la confianza del Doctor Simi.</p>
+
+</body>
+
+</html>
+
+![image](https://github.com/user-attachments/assets/cb43ece6-b80c-41ac-8be7-12001ed38222)
+![image](https://github.com/user-attachments/assets/2e0133a0-5244-420b-a5aa-010265a34f75)
